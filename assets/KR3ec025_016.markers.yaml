@@ -2482,14 +2482,13 @@ markers:
   - {type: 'tls:seg', offset: 4444, content: '', id: KR3ec025_jc_016-d22.d2.d5.p104s8}
   - {type: punctuation, offset: 4444, content: （, id: KR3ec025_jc_016-bkkpn1175}
   - {type: punctuation, offset: 4444, content: 《, id: KR3ec025_jc_016-bkkpn1176}
-  - {type: voice, offset: 4444, length: 2, name: title, id: t62, source: punctuation}
+  - {type: voice, offset: 4444, length: 3, name: title, id: t62, source: punctuation}
   - {type: punctuation, offset: 4447, content: 》, id: KR3ec025_jc_016-bkkpn1178}
   - {type: punctuation, offset: 4447, content: ）, id: KR3ec025_jc_016-bkkpn1179}
   - {type: 'tls:seg-end', offset: 4447, content: '', id: KR3ec025_jc_016-d22.d2.d5.p104s8_end, seg_type: comm}
   - {type: xml-element, offset: 4447, content: '', id: KR3ec025_jc_016-d22.d2.d5p104_end, name: p, role: close, attrs: {'xml:id': KR3ec025_jc_016-d22.d2.d5p104}}
   - {type: xml-element, offset: 4447, content: '', id: KR3ec025_jc_016-d22.d2.d5p106, name: p, role: open, attrs: {'xml:id': KR3ec025_jc_016-d22.d2.d5p106}}
   - {type: 'tls:seg', offset: 4447, content: '', id: KR3ec025_jc_016-d22.d2.d5.p106s1}
-  - {type: 'voice:problem', offset: 4447, length: 0, id: KR3ec025_bkk_016-bkkvprob1, source: punctuation, bucket: body, code: stray-close, message: unexpected '》' at offset 4447 with no matching opener}
   - {type: punctuation, offset: 4451, content: ，, id: KR3ec025_jc_016-bkkpn1180}
   - {type: 'tls:seg', offset: 4451, content: '', id: KR3ec025_jc_016-d22.d2.d5.p106s2}
   - {type: punctuation, offset: 4456, content: ，, id: KR3ec025_jc_016-bkkpn1181}
@@ -32031,4 +32030,4 @@ markers:
   - {type: punctuation, offset: 48109, content: 。, id: KR3ec025_jc_016-bkkpn15126}
   - {type: xml-element, offset: 48109, content: '', id: KR3ec025_jc_016-d22.d2.d78p8_end, name: p, role: close, attrs: {'xml:id': KR3ec025_jc_016-d22.d2.d78p8}}
   back: []
-hash: sha256:ab839561d07f4639c9754cddc4d245869da3807a18e4984aa2cb339458f0af75
+hash: sha256:3e9619c490214b001376397127a610236d5837291ddaeb70fa1e2428554d816c

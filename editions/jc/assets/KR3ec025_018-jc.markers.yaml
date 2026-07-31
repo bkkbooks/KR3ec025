@@ -964,7 +964,7 @@ markers:
   - {type: punctuation, offset: 1503, content: 。, id: KR3ec025_jc_018-bkkpn461}
   - {type: 'tls:seg', offset: 1503, content: '', id: KR3ec025_jc_018-d24.d2.d4.p70s4}
   - {type: punctuation, offset: 1505, content: 》, id: KR3ec025_jc_018-bkkpn462}
-  - {type: 'voice:problem', offset: 1505, length: 0, id: KR3ec025_jc_018-bkkvprob2, source: punctuation, bucket: body, code: stray-close, message: unexpected '》' at offset 1505 with no matching opener}
+  - {type: 'voice:problem', offset: 1505, length: 0, id: KR3ec025_jc_018-bkkvprob4, source: punctuation, bucket: body, code: stray-close, message: unexpected '》' at offset 1505 with no matching opener}
   - {type: punctuation, offset: 1506, content: ：, id: KR3ec025_jc_018-bkkpn463}
   - {type: 'tls:seg', offset: 1506, content: '', id: KR3ec025_jc_018-d24.d2.d4.p70s5}
   - {type: punctuation, offset: 1510, content: 、, id: KR3ec025_jc_018-bkkpn464}
@@ -27659,7 +27659,7 @@ markers:
   - {type: 'tls:seg', offset: 44006, content: '', id: KR3ec025_jc_018-d24.d2.d48.p4s5}
   - {type: punctuation, offset: 44006, content: （, id: KR3ec025_jc_018-bkkpn13333}
   - {type: punctuation, offset: 44006, content: 《, id: KR3ec025_jc_018-bkkpn13334}
-  - {type: 'voice:problem', offset: 44006, length: 61, id: KR3ec025_jc_018-bkkvprob3, source: punctuation, bucket: body, code: expected-close, message: 'expected ''》'' after ''《'' at offset 44006, got ''《'' at offset 44067'}
+  - {type: 'voice:problem', offset: 44006, length: 61, id: KR3ec025_jc_018-bkkvprob5, source: punctuation, bucket: body, code: expected-close, message: 'expected ''》'' after ''《'' at offset 44006, got ''《'' at offset 44067'}
   - {type: punctuation, offset: 44008, content: ）, id: KR3ec025_jc_018-bkkpn13335}
   - {type: punctuation, offset: 44008, content: 、, id: KR3ec025_jc_018-bkkpn13336}
   - {type: 'tls:seg-end', offset: 44008, content: '', id: KR3ec025_jc_018-d24.d2.d48.p4s5_end, seg_type: comm}
@@ -37418,4 +37418,4 @@ markers:
   - {type: punctuation, offset: 58300, content: 。, id: KR3ec025_jc_018-bkkpn18042}
   - {type: xml-element, offset: 58300, content: '', id: KR3ec025_jc_018-d24.d2.d80p76_end, name: p, role: close, attrs: {'xml:id': KR3ec025_jc_018-d24.d2.d80p76}}
   back: []
-hash: sha256:e3ecfe0fc2654bda73425abd9c73699287b5919a2d550c9d7407b247034de2ca
+hash: sha256:159b61cd4b062c68f01414f139cb66cfda49f6e65c5a7f0e2e51a03dc2f45b58
